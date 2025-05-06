@@ -1,5 +1,5 @@
 {
-  "name": "markdown-it-texmath",
+  "name": "@hackerspub/markdown-it-texmath",
   "version": "1.0.1",
   "description": "markdown-it extension for rendering TeX Math",
   "keywords": [
@@ -16,7 +16,7 @@
   "main": "texmath.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/goessner/markdown-it-texmath.git"
+    "url": "git://github.com/hackers-pub/markdown-it-texmath.git"
   },
   "license": "MIT",
   "devDependencies": {
